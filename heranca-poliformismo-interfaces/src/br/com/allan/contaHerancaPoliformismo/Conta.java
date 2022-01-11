@@ -67,8 +67,9 @@ public abstract class Conta {
 
 	public void transfere(Conta contaDestino, double valor) {
 		this.sacar(valor);
-		contaDestino.deposita(valor);
-		
+		contaDestino.deposita(valor);	
 
 	}
+	
+	
 }
