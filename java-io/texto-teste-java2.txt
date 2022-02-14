@@ -1,0 +1,4 @@
+esse e um arquivo de teste apenas para fazer leitura no projeto java-io.
+proxima linha do arquivo de teste.
+mais uma linha para podermos entender como funciona a leitura ou escrita.
+ultima lina do arquivo de teste criado por allan dos santos silva.
